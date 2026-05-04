@@ -16,3 +16,4 @@ public class Secuencias {
         return ++contadorCategorias;
     }
 }
+

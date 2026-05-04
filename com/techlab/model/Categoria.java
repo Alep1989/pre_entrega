@@ -36,3 +36,4 @@ public class Categoria implements Identificable {
         return String.format("[%d] %s", codigo, nombre);
     }
 }
+

@@ -65,3 +65,4 @@ public class ArticuloAlimenticio extends Articulo {
                 fechaVencimiento, estado, calcularPrecioFinal());
     }
 }
+
