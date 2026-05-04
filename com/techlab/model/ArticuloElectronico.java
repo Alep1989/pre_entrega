@@ -50,4 +50,3 @@ public class ArticuloElectronico extends Articulo {
                 garantiaMeses, calcularPrecioFinal());
     }
 }
-

@@ -71,4 +71,3 @@ public abstract class Articulo implements Identificable, Calculable {
                 codigo, nombre, precio, categoria.getNombre(), getTipoArticulo());
     }
 }
-
